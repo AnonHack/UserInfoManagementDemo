@@ -1,0 +1,2 @@
+# UserInfoManagementDemo
+使用Struts2和Hibernate实现的用户信息管理项目案例
